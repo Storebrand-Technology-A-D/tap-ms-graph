@@ -6,9 +6,9 @@ from singer_sdk import Stream, Tap
 from singer_sdk import typing as th
 
 from tap_ms_graph.streams import (
-    GroupMembersStream,
-    GroupsStream,
-    SubscribedSkusStream,
+    #GroupMembersStream,
+    #GroupsStream,
+    #SubscribedSkusStream,
     UsersStream,
 )
 
